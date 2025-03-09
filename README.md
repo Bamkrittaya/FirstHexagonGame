@@ -14,8 +14,8 @@ Hexagon is my first game built using the **Unity** engine with **JavaScript (Uni
    ```sh
    git clone https://github.com/Bamkrittaya/FirstHexagonGame.git
    ```
-2. Open the project in **Unity**  
-3. Click **Play** in the Unity Editor  
+2. Open **Unity** **Hub**, go to "Open Project", and select the cloned folder.  
+3. Click **Play** in the Unity Editor to start the game!
 
 ## **📷 Screenshots**  
 _ (I will provide the game image)_  
